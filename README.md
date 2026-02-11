@@ -33,6 +33,7 @@ Pandas, NumPy
 Matplotlib / Seaborn
 
 📂 Project Structure
+
 house-price-prediction/
 │── src/            # Source code (data preprocessing, training, evaluation)
 │── public/         # Visualizations, plots, or static assets
@@ -50,8 +51,9 @@ models/ → Contains the trained Linear Regression model
 README.md → Explains project details and usage
 
 ⚙️ How to Run the Project
+
 Step 1: Clone the repository
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/Hepsiba-K9/HousePricePrediction.git
 
 Step 2: Navigate to the project directory
 cd repo-name
